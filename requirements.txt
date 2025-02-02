@@ -5,5 +5,4 @@ PyMuPDF
 python-pptx
 opencv-python
 camelot-py
-tk
-ghostscript
+nltk
