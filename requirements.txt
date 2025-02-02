@@ -2,7 +2,6 @@ google-generativeai
 python-docx
 PyMuPDF
 python-pptx
-cv2
 camelot-py
 torch
 nltk
