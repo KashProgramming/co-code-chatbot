@@ -12,4 +12,4 @@ matplotlib
 pandas
 uvicorn
 opencv-python-headless
-pytesseract
+tesseract
