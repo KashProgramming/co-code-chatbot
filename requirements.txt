@@ -12,3 +12,4 @@ matplotlib
 pandas
 uvicorn
 opencv-python
+pytesseract
