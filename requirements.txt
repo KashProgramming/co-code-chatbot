@@ -3,3 +3,4 @@ google-generativeai
 python-docx
 PyMuPDF
 python-pptx
+pytesseract
