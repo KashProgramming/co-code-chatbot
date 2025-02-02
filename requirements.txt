@@ -3,7 +3,7 @@ google-generativeai
 python-docx
 PyMuPDF
 python-pptx
-camelot-py
+camelot-py[cv]
 torch
 nltk
 transformers
@@ -11,5 +11,5 @@ pillow
 matplotlib
 pandas
 uvicorn
-opencv-python
+opencv-python-headless
 pytesseract
