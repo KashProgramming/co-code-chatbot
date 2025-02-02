@@ -5,7 +5,6 @@ from file_handler.docx_handler import extract_docx_content
 from file_handler.ppt_handler import extract_pptx_content
 from file_handler.pdf_handler import extract_pdf_content
 
-# Configure Gemini API (Replace with your API key)
 genai.configure(api_key="GEMINI_API_KEY")
 
 def extract_content(file_path):
