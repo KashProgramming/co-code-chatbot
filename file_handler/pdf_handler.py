@@ -5,6 +5,8 @@ import io
 import camelot
 import pandas as pd
 
+pytesseract.pytesseract.tesseract_cmd = "/opt/miniconda3/bin/tesseract"
+
 def extract_pdf_content(pdf_file):
     """
     Will be used to extract text, images and tables from a pdf document
