@@ -3,6 +3,12 @@ google-generativeai
 python-docx
 PyMuPDF
 python-pptx
-opencv-python
+cv2
 camelot-py
+torch
+re
 nltk
+transformers
+pillow
+matplotlib
+pandas
