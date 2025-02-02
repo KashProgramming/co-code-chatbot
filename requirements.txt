@@ -1,6 +1,14 @@
 streamlit
 google-generativeai
-python-docx
 PyMuPDF
+python-docx
 python-pptx
 pytesseract
+pillow
+camelot-py[cv]
+pandas
+opencv-python
+tensorflow
+glob2
+matplotlib
+nltk
