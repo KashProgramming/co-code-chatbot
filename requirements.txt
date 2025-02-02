@@ -9,3 +9,5 @@ transformers
 pillow
 matplotlib
 pandas
+uvicorn
+opencv-python
