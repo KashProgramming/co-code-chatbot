@@ -3,7 +3,7 @@ google-generativeai
 python-docx
 PyMuPDF
 python-pptx
-camelot-py[cv]
+camelot-py
 torch
 nltk
 transformers
@@ -13,3 +13,4 @@ pandas
 uvicorn
 opencv-python-headless
 tesseract
+pytesseract
